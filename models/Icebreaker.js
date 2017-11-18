@@ -8,4 +8,4 @@ class Icebreaker{
   }
 }
 
-module.exports =
+module.exports = Icebreaker.question();
