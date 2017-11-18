@@ -2,8 +2,8 @@
 
 class Question {
   static Find(){
-    
+
   }
 }
 
-module.export = Question.Find();
+module.exports = Question.Find();
